@@ -78,7 +78,7 @@ Here are some ideas to get you started:
   <a href="https://www.quora.com/"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<h2  align="center"> 📈 Statistics</h2>
+
 | Github Stats | Top Languages | Github Streak
 | --- | --- | --- |
 | ![Sai's github stats](https://github-readme-stats.vercel.app/api?username=SaiSamarth123&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sai's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSamarth123&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) | [![Sai's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaiSamarth123&theme=vision-friendly-dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
