@@ -17,6 +17,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<h2 align="center"> 👨‍💻 Whoami</h2>
+<p align="center">
+  <samp>A highly passionate and hardworking computer science student with over 3 years of computing experience. Possesses a solid understanding of technologies required for the development and deployment of highly available and scalable applications. 
+  </samp>
+</p>
+
+
+
+
+
+
+
 ### [](https://github.com/robertvogue/robertvogue/#languagesandtechnologies)Languages and Technologies I Use:
 <img height="60" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png'> <addr>
 <img height="60" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png'> <addr>
