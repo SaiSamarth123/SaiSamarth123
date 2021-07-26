@@ -27,6 +27,15 @@ Here are some ideas to get you started:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saisamarth/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sai003sam@gmail.com?subject=[Github])
+
+
+## Contributions
+[![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaiSamarth123&show_icons=true&theme=great-gatsby&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSamarth123&layout=compact&langs_count=8&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaiSamarth123&theme=vision-friendly-dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 -->
 
 <h1 align="center"> Hi there, I'm Sai Samarth! 👋  </h1>
@@ -71,19 +80,13 @@ Here are some ideas to get you started:
   <a href="https://www.quora.com/"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-
+<h2  align="center"> 📈 Statistics</h2>
 | Github Stats | Top Languages | Github Streak
 | --- | --- | --- |
 | ![Sai's github stats](https://github-readme-stats.vercel.app/api?username=SaiSamarth123&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sai's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSamarth123&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) | [![Sai's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaiSamarth123&theme=vision-friendly-dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
 
-## Contributions
-[![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaiSamarth123&show_icons=true&theme=great-gatsby&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSamarth123&layout=compact&langs_count=8&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaiSamarth123&theme=vision-friendly-dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
 
