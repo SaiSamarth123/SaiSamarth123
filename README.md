@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<h1 align="center"> Hi there, I'm Sai Samarth! 👋  </h1>
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
