@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
+
 ### [](https://github.com/robertvogue/robertvogue/#languagesandtechnologies)Languages and Technologies I Use:
 <img height="60" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png'> <addr>
 <img height="60" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png'> <addr>
