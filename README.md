@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 <h1 align="center"> Hi there, I'm Sai Samarth! 👋  </h1>
 
-<h2 align="center"> 👨‍💻 Whoami</h2>
+<!-- <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
   <samp>A highly passionate and hardworking computer science student with over 5 years of computing experience. Possesses a solid understanding of technologies required for the development and deployment of highly available and scalable applications. 
   </samp>
-</p>
+</p> -->
 
 <h2 align="center"> ⌨️ Languages</h2>
 <p align="center">
