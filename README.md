@@ -65,7 +65,7 @@ Here are some ideas to get you started:
   </samp>
 </p> -->
 
-<h2 align="center"> ⌨️ Languages</h2>
+<!-- <h2 align="center"> ⌨️ Languages</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;&nbsp;
@@ -90,7 +90,7 @@ Here are some ideas to get you started:
   <a href="mailto:sai003sam@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://www.facebook.com/saisamarth.pu/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discordapp.com/users/Living Tribunal#3837/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+</p> -->
 
 
 | Github Stats | Top Languages | Github Streak
