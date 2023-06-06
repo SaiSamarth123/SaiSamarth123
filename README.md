@@ -90,15 +90,16 @@ Here are some ideas to get you started:
   <a href="mailto:sai003sam@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://www.facebook.com/saisamarth.pu/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discordapp.com/users/Living Tribunal#3837/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p> -->
+</p> 
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=saisamarth123.saisamarth123) -->
 
 
 | Github Stats | Github Streak
 | --- | --- |
 | [![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaiSamarth123&show_icons=true&theme=great-gatsby&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | [![Sai's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaiSamarth123&theme=vision-friendly-dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=saisamarth123.saisamarth123) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/SaiSamarth123) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/SaiSamarth123)
+<!-- 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/SaiSamarth123) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/SaiSamarth123) -->
 
 
 
