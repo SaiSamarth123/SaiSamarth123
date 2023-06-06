@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 
 
 | Github Stats | Github Streak
-| --- | --- | --- |
+| --- | --- |
 | [![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaiSamarth123&show_icons=true&theme=great-gatsby&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | [![Sai's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaiSamarth123&theme=vision-friendly-dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
