@@ -94,9 +94,10 @@ Here are some ideas to get you started:
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=saisamarth123.saisamarth123) -->
 
 
-| Github Stats | Github Streak
+
+<!-- | Github Stats | Github Streak
 | --- | --- |
-| [![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaiSamarth123&show_icons=true&theme=great-gatsby&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | [![Sai's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaiSamarth123&theme=vision-friendly-dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+| [![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaiSamarth123&show_icons=true&theme=great-gatsby&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | [![Sai's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaiSamarth123&theme=vision-friendly-dark)](https://github.com/DenverCoder1/github-readme-streak-stats) -->
 
 <!-- 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/SaiSamarth123) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/SaiSamarth123) -->
