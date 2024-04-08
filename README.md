@@ -102,7 +102,7 @@
 
 
 <h1 align="center"> Hi, I'm Sai Samarth! 👋  </h1>
-I am a Software Engineer and a Co-Founder.
+I am a Software Engineer and a Founder.
 
 - 🌐 Visit my [portfolio website](https://www.saipatipati.xyz/) for more information and to get in touch.
 - 👋 Connect with me on [linkedin](https://www.linkedin.com/in/saisamarth/)
